@@ -1,4 +1,4 @@
-package bai1.btvn;
+package session1.btvn;
 import java.net.StandardSocketOptions;
 import java.util.Scanner;
 public class Bai1_DienTichHinhTron {
